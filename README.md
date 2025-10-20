@@ -1,4 +1,7 @@
-# Enhanced Shelves
+<p align="center">
+<img src="https://cdn.modrinth.com/data/cached_images/2b37efd90b2fe6ecafd6dda290509f195c480ec7.png">
+
+   # Enhanced Shelves
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/enhanced-shelves?logo=modrinth)](https://modrinth.com/resourcepack/enhanced-shelves)
 [![Modrinth Version](https://img.shields.io/modrinth/v/enhanced-shelves?logo=modrinth)](https://modrinth.com/resourcepack/enhanced-shelves/versions)
