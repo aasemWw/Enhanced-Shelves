@@ -70,4 +70,4 @@ Please do not redistribute or modify without permission.
 
 ### 🔗 Quick Links
 - **Modrinth:** [Enhanced Shelves](https://modrinth.com/resourcepack/enhanced-shelves)  
-- **GitHub Issues:** [Report or Suggest](https://github.com/<GITHUB_USER>/<REPO_NAME>/issues)
+- **GitHub Issues:** [Report or Suggest](https://github.com/aasemWw/Enhanced-Shelves/issues)
