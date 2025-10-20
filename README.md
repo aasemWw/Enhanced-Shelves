@@ -53,7 +53,6 @@
 ## 📜 Changelog
 See all releases and version history on:
 - **Modrinth Versions:** [modrinth.com/resourcepack/enhanced-shelves/versions](https://modrinth.com/resourcepack/enhanced-shelves/versions)  
-- **GitHub Releases:** [github.com/<GITHUB_USER>/<REPO_NAME>/releases](https://github.com/<GITHUB_USER>/<REPO_NAME>/releases)
 
 ---
 
