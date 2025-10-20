@@ -44,11 +44,7 @@
 
 ## 🖼️ Screenshots
 <p align="center">
-  <img src="assets/banner.png" alt="Enhanced Shelves banner" width="880">
-</p>
-<p align="center">
-  <img src="assets/screen1.png" alt="screenshot 1" width="420">
-  <img src="assets/screen2.png" alt="screenshot 2" width="420">
+  <img src="https://cdn.modrinth.com/data/cached_images/977783dbbe4aaaef8f4ae7742ede3a54391b5e07.png">
 </p>
 
 ---
